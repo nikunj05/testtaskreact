@@ -1,0 +1,75 @@
+{
+  "drawer_navigation": {
+    "home": "Home",
+    "resources": "Resources",
+    "chat": "Chat",
+    "account": "Account"
+  },
+  "header": {
+    "clients": "Clients"
+  },
+  "course": {
+    "assignments_in_progress": "Assignments In Progress",
+    "status": "Status",
+    "lessons": "Lessons",
+    "due_date": "Due Date",
+    "progress": "Progress :",
+    "description": "Description",
+    "progress_status": "Progress Status",
+    "take_quiz": "Take a Quiz",
+    "start_lesson": "Start Lesson"
+  },
+  "resource": {
+    "resource_count": "Resource ({{resource_count}})"
+  },
+  "profile": {
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "zipcode": "Zipcode"
+  },
+  "auth": {
+    "email": "Email Address",
+    "password": "Password",
+    "current_password": "Current Password",
+    "new_password": "New Password",
+    "confirm_password": "Confirm New Password"
+  },
+  "settings": {
+    "profile": "Profile",
+    "change_password": "Change Password",
+    "log_out": "Log Out"
+  },
+  "logout": {
+    "confirmation": "Are you sure you want to logout?",
+    "title": "Logout",
+    "cancel": "Cancel"
+  },
+  "powered_by": "Powered By {{company_name}}",
+  "button": {
+    "continue": "Continue",
+    "add": "Add",
+    "okay": "Okay",
+    "submit": "Submit",
+    "edit_profile": "Edit Profile",
+    "cancel": "Cancel",
+    "clear_all": "Clear All"
+  },
+  "notification": {
+    "profile_updated": "Profile updated successfully!",
+    "password_updated": "Password updated successfully!"
+  },
+  "validation": {
+    "required": "{{label}} is required",
+    "email": "Please enter a valid email address",
+    "password_compare": "Passwords do not match",
+    "numeric": "Must be numeric",
+    "min_character": "Please enter at least {{minCharacter}} characters",
+    "mobile_number": "Please enter a valid mobile number."
+  }
+}

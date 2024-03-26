@@ -1,0 +1,11 @@
+export const LOGIN_FORM = 'auth/LOGIN_FORM'
+export const FORGOT_PASSWORD_FORM = 'auth/FORGOT_PASSWORD_FORM'
+export const RESET_PASSWORD_FORM = 'auth/RESET_PASSWORD_FORM'
+
+export const LOGIN = 'auth/LOGIN'
+export const SENT_RECOVER_PASSWORD_LINK = 'auth/SENT_RECOVER_PASSWORD_LINK'
+export const RESET_PASSWORD = 'auth/RESET_PASSWORD'
+export const SAVE_ID_TOKEN = 'auth/SAVE_ID_TOKEN'
+
+export const LOGOUT_SUCCESS = 'auth/LOGOUT_SUCCESS'
+export const SAVE_USER_DETAILS = 'auth/SAVE_USER_DETAILS'

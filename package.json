@@ -1,0 +1,71 @@
+{
+  "name": "calibr-demo",
+  "version": "1.0.5",
+  "private": true,
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "PORT=3001 react-scripts start"
+  },
+  "dependencies": {
+    "@cantonjs/react-scroll-view": "^0.4.2",
+    "@react-pdf/renderer": "^3.0.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@windmill/react-ui": "0.3.1",
+    "axios": "^0.27.2",
+    "buffer": "^6.0.3",
+    "caniuse-lite": "^1.0.30001597",
+    "chart.js": "^3.9.1",
+    "classnames": "2.2.6",
+    "currency-formatter": "^1.5.9",
+    "i18next": "^21.10.0",
+    "moment": "^2.29.4",
+    "primeicons": "^5.0.0",
+    "primereact": "^8.7.2",
+    "query-string": "^7.1.1",
+    "quill": "^1.3.7",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-hot-toast": "^2.4.0",
+    "react-i18next": "^11.18.6",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "3.4.1",
+    "recompose": "^0.30.0",
+    "redux": "^4.2.0",
+    "redux-form": "^8.3.8",
+    "redux-persist": "^6.0.0",
+    "redux-saga": "^1.2.1",
+    "redux-storage": "^4.1.2",
+    "reselect": "^4.1.6",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "5.4.0",
+    "babel-jest": "^24.9.0",
+    "postcss-cli": "7.1.1",
+    "tailwindcss": "1.4.6"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
