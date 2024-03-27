@@ -1,8 +1,7 @@
 import React from 'react'
 import {Field} from 'redux-form'
 import {BaseInput, BaseSelect} from 'components'
-import {COUNTRIES} from 'stores/common/helpers'
-
+const COUNTRIES = []
 const FormField = props => !props.hide && <Field {...props} />
 
 export const AddressForm = props => {

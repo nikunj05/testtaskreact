@@ -1,3 +1,3 @@
-import AppNavigation from './navigation-container'
+import AppNavigation from './navigation'
 export * from './AccessibleNavigationAnnouncer'
 export default AppNavigation
