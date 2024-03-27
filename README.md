@@ -1,3 +1,3 @@
-*step for start on local server*
-- yarn insatall
+*step for run project on server*
+- yarn install
 - yarn start
