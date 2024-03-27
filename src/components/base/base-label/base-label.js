@@ -5,12 +5,12 @@ export const BaseLabel: FC<IProps> = props => {
   if (!show) return null
 
   return (
-    <>
-      <span className="text-sm text-gray-500">
+    <div className="mb-2">
+      <span className="text-md text-black">
         {label ?? children}
         {isRequired ? <span className="text-red-500">{' *'}</span> : null}
       </span>
-    </>
+    </div>
   )
 }
 

@@ -19,6 +19,8 @@ import {ReactComponent as AcceptIcon} from './accept-icon.svg'
 import {ReactComponent as RejectIcon} from './reject-icon.svg'
 import {ReactComponent as EyeIcon} from './eye-icon.svg'
 import {ReactComponent as EmptyIcon} from './empty.svg'
+import {ReactComponent as ImageIcon} from './image.svg'
+import {ReactComponent as CloseIcon} from './close.svg'
 
 export {
   HomeIcon,
@@ -41,5 +43,7 @@ export {
   AcceptIcon,
   RejectIcon,
   EyeIcon,
-  EmptyIcon
+  EmptyIcon,
+  ImageIcon,
+  CloseIcon
 }
